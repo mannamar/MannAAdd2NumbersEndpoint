@@ -1,3 +1,9 @@
+// Amardeep Mann
+// 10-25-22
+// Add2Numbers Endpoint
+// Added the ability to take in an input via web URL for our Add2Numbers function
+// Peer reviewed by
+
 using Microsoft.AspNetCore.Mvc;
 
 namespace MannASayHelloEndpoint.Controllers;
