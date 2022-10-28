@@ -5,7 +5,7 @@ A Add2Numbers application that will take in two numbers from the user and output
 
 Instructions:
 1. Download the files and put them in their own folder, open the folder in VS Code, start debugging (F5)
-2. Navigate to "http://localhost:5110//Add2Numbers" for the default summation (you may need to change the port if it's different on your system > see debug console)
+2. Navigate to "http://localhost:5110/Add2Numbers" for the default summation (you may need to change the port if it's different on your system > see debug console)
 3. Append URL with two integers such as "http://localhost:5110/Add2Numbers/50/1000" for a customized summation
 4. Have fun!
 
